@@ -1,62 +1,75 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Mobile%20App%20Developer%20(Flutter%2FDart)%20%20DevOps%20Practitioner&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
-## 📌 About Me
-- 🌱 I'm currently learning advanced DevOps workflows (Docker, Kubernetes, CI/CD pipelines) and full‑stack Dart/Flutter monorepo projects.  
-- 🤝 I'm looking to collaborate on open‑source DevOps tools, mobile apps, and bilingual tech education projects.  
-- 🍪 I'm looking for help with expanding Sinhala‑English technical resources and optimizing recruiter‑friendly LinkedIn branding.  
-
----
-
-## 🧠 My Focus Areas
-- 🐳 DevOps & Cloud Engineering → Docker • Kubernetes • Google Cloud • CI/CD  
-- 📱 Mobile Development → Dart • Flutter • Riverpod • Dart Frog • SQLite  
-
----
-
-## 🛠️ Languages & Tools
-
-> ## DevOps & Cloud
 <p align="center">
-  <!-- Existing -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="48" height="48" style="margin: 4px;" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:000000,100:a371f7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=DevOps%20Architect%20|%20Flutter%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 </p>
 
-> ## Mobile Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" style="margin: 4px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=root@tobi:~$+terraform+apply;Status:+Infrastructure+Provisioned;Deploying+Scalable+Cloud+Apps;Automating+The+Future..." alt="Typing SVG" />
 </p>
 
-> ## Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/System_Status-Online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_Cluster-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Avishka-2002&label=Traffic_Received&color=A371F7&style=for-the-badge" alt="Views" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/avishka-nipun-aa835a319" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>
-  <a href="https://wa.me/650775007643" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a>
-  <a href="mailto:mgavishka12@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a>
+## ⚡ Root Access (About Me)
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" align="right" width="150" />
+
+- 🛰️ **Mission:** Currently scaling **DevOps Workflows** (The automated sequence of processes used to build and deploy software) ⚙️.  
+- 🛠️ **Orchestration:** Mastering **Kubernetes** (A platform that manages containerized applications, ensuring they run reliably across servers) 🐳.  
+- 🌍 **Goal:** Bridging the gap with **Sinhala‑English** technical resources 📖.  
+- 🤝 **Collaboration:** Looking to contribute to Open‑Source DevOps tools and Mobile App frameworks.  
+
+---
+
+## 🛠️ Tech Stack Categorization (System Modules)
+
+### ☁️ Cloud & Infrastructure (IaC)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,linux" />
+</p>
+
+### ⚙️ Automation & CI/CD
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,python,bash" />
+</p>
+
+### 📱 Mobile & Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb" />
 </p>
 
 ---
 
+## 📊 Monitoring Dashboard (Real-time Stats)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avishka-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-2002&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏗️ Pipeline Activity (Contribution Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-2002&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🔗 Connect to the Cluster
+<p align="center">
+  <a href="https://www.linkedin.com/in/avishka-nipun-aa835a319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mgavishka12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="right">
+  <i>System Health: Stable 🟢 | Last Deployment: 2026-03-31 ⚡</i>
 </p>
