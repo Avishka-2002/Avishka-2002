@@ -47,8 +47,8 @@
 
 ## 📊 Monitoring Dashboard (Real-time Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avishka-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-2002&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avishka-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="Avishka's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-2002&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
