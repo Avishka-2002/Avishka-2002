@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:000000,100:a371f7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=DevOps%20Architect%20|%20Flutter%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:000000,100:a371f7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=DevOps%20Architect%20%7C%20Flutter%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,21 +17,23 @@
 ## ⚡ Root Access (About Me)
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" align="right" width="150" />
 
-- 🛰️ **Mission:** Currently scaling **DevOps Workflows** (The automated sequence of processes used to build and deploy software) ⚙️.  
-- 🛠️ **Orchestration:** Mastering **Kubernetes** (A platform that manages containerized applications, ensuring they run reliably across servers) 🐳.  
-- 🌍 **Goal:** Bridging the gap with **Sinhala‑English** technical resources 📖.  
-- 🤝 **Collaboration:** Looking to contribute to Open‑Source DevOps tools and Mobile App frameworks.  
+* 🛰️ **Mission:** Currently scaling **DevOps Workflows** (**Explanation:** The automated sequence of stages like coding, testing, and deployment used to release software) ⚙️.  
+* 🛠️ **Orchestration:** Mastering **Kubernetes** (**Explanation:** A powerful system that automates the management, scaling, and deployment of containerized applications) 🐳.  
+* 🌍 **Goal:** Bridging the gap with **Sinhala‑English** technical resources 📖.  
+* 🤝 **Collaboration:** Looking to contribute to Open‑Source DevOps tools and Mobile App frameworks.  
 
 ---
 
 ## 🛠️ Tech Stack Categorization (System Modules)
 
 ### ☁️ Cloud & Infrastructure (IaC)
+> **IaC (Infrastructure as Code):** A method where you manage your servers and networks using configuration files (like Terraform) instead of manual setup.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,linux" />
 </p>
 
 ### ⚙️ Automation & CI/CD
+> **CI/CD:** Continuous Integration and Continuous Delivery; it automates the process of merging code and shipping it to production instantly.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,python,bash" />
 </p>
@@ -71,5 +73,5 @@
 ---
 
 <p align="right">
-  <i>System Health: Stable 🟢 | Last Deployment: 2026-03-31 ⚡</i>
+  <i>System Health: Stable 🟢 | Last Deployment: 2026-04-23 ⚡</i>
 </p>
