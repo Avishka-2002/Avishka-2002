@@ -1,66 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:000000,100:a371f7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=DevOps%20Architect%20%7C%20Flutter%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:7b2ff7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20Architect%20%7C%20Full-Stack%20&%20Flutter%20Engineer&descSize=20&descColor=D1D1D1&descAlignY=60" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=root@tobi:~$+terraform+apply;Status:+Infrastructure+Provisioned;Deploying+Scalable+Cloud+Apps;Automating+The+Future..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Main_Cluster-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Avishka-2002&label=Traffic_Received&color=A371F7&style=for-the-badge" alt="Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=root@avishka:~$+terraform+init;Initializing+Cloud+Infrastructure...;Status:+Cluster+Online+🟢;Building+the+Future+with+Code..." alt="Typing SVG" />
 </p>
 
 ---
 
-## ⚡ Root Access (About Me)
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" align="right" width="150" />
+## 🛰️ System Overview (About Me)
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" align="right" width="140" />
 
-* 🛰️ **Mission:** Currently scaling **DevOps Workflows** (**Explanation:** The automated sequence of stages like coding, testing, and deployment used to release software) ⚙️.  
-* 🛠️ **Orchestration:** Mastering **Kubernetes** (**Explanation:** A powerful system that automates the management, scaling, and deployment of containerized applications) 🐳.  
-* 🌍 **Goal:** Bridging the gap with **Sinhala‑English** technical resources 📖.  
-* 🤝 **Collaboration:** Looking to contribute to Open‑Source DevOps tools and Mobile App frameworks.  
+* **Current Node:** Final Year BSc (Hons) Computer Science & Engineering Student 🎓.
+* **Core Mission:** Automating **CI/CD Pipelines** (**Explanation:** A series of automated steps to build, test, and deploy software) to ensure high availability 🚀.
+* **Orchestration Layer:** Specialized in **Kubernetes** (**Explanation:** An open-source system for automating deployment and scaling of containerized applications) 🐳.
+* **Development Stack:** Crafting cross-platform mobile experiences with **Flutter** & **Dart** 📱.
+* **Language Bridge:** Creating technical content in **Sinhala-English** to empower the local dev community 📖.
 
 ---
 
-## 🛠️ Tech Stack Categorization (System Modules)
+## 🛠️ Tech Stack (Modules)
 
-### ☁️ Cloud & Infrastructure (IaC)
-> **IaC (Infrastructure as Code):** A method where you manage your servers and networks using configuration files (like Terraform) instead of manual setup.
+### ☁️ Infrastructure & Cloud (IaC)
+> **IaC (Infrastructure as Code):** Managing IT infrastructure using configuration files rather than manual hardware configuration.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,linux,bash" />
 </p>
 
-### ⚙️ Automation & CI/CD
-> **CI/CD:** Continuous Integration and Continuous Delivery; it automates the process of merging code and shipping it to production instantly.
+### ⚙️ Automation & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,python,bash" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,python,nodejs,mongodb,express,react" />
 </p>
 
-### 📱 Mobile & Web Development
+### 📱 Mobile Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite" />
 </p>
 
 ---
 
-## 📊 Monitoring Dashboard (Real-time Stats)
+## 📊 Cluster Metrics (Real-time Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avishka-2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="Avishka's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-2002&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avishka-2002&show_icons=true&theme=transparent&text_color=a371f7&icon_color=a371f7&title_color=ffffff&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka-2002&theme=transparent&stroke=a371f7&fire=a371f7&ring=ffffff&text=ffffff&hide_border=true" width="49%" />
 </p>
 
----
-
-## 🏗️ Pipeline Activity (Contribution Graph)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-2002&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishka-2002&theme=react-dark&area=true&hide_border=true&color=a371f7" width="100%" />
 </p>
 
 ---
 
-## 🔗 Connect to the Cluster
+## 🔗 Connect to the Host
 <p align="center">
   <a href="https://www.linkedin.com/in/avishka-nipun-aa835a319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -68,10 +59,13 @@
   <a href="mailto:mgavishka12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://medium.com/@your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="right">
-  <i>System Health: Stable 🟢 | Last Deployment: 2026-04-23 ⚡</i>
+  <i>System Health: Optimal 🟢 | Uptime: 100% | Last Deployment: 2026-04-23 ⚡</i>
 </p>
