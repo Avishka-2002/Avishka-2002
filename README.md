@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:7b2ff7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20Architect%20%7C%20Full-Stack%20&%20Flutter%20Engineer&descSize=20&descColor=D1D1D1&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:000000,100:a371f7&text=M.G%20Avishka%20Nipun%20Sanjeewa&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=DevOps%20Architect%20%7C%20Flutter%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=root@avishka:~$+terraform+init;Initializing+Cloud+Infrastructure...;Status:+Cluster+Online+🟢;Building+the+Future+with+Code..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=root@tobi:~$+terraform+apply;Status:+Infrastructure+Provisioned;Deploying+Scalable+Cloud+Apps;Automating+The+Future..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-Online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main_Cluster-Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Avishka-2002&label=Traffic_Received&color=A371F7&style=for-the-badge" alt="Views" />
 </p>
 
 ---
